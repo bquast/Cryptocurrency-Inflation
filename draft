@@ -1,0 +1,12 @@
+\documentclass[]{article}
+\usepackage[authordate,noibid,backend=biber]{biblatex-chicago}
+\usepackage[hideslink]{hyperref}
+
+\addbibresource{bibliography.bib}
+
+\begin{document}
+\maketitle
+
+\abstract{In this paper I explain}
+
+\end{document}
