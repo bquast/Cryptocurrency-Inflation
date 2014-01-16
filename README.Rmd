@@ -22,7 +22,7 @@ Although these aspects might seem unrelated, they have a common solution.
 **Bitcoin** is a confusing term.
 It is both a monetary unit of denomination,
 such as swiss franc, euro, or pound sterling,
-as well as, a system, including the protocol, the network, and the software.
+as well as, a monetary system as a whole, including the protocol, the network, and the software.
 To distinguish between the two, the system **Bitcoin** is written with a capital letter B,
 the monetary unit is **bitcoin**, with a small letter b.
 
