@@ -10,7 +10,7 @@ These currencies have recently become known as **cryptocurrencies**.
 
 There are some key benefits to cryptocurrencies, a few of which I will mention here.
 Firstly, the system is self-regulating, meaning that no government or institution controls it.
-For the user that means that their holdings cannot be used as a policy intrument.
+For the user that means that their holdings cannot be used as a policy instrument.
 Conventional fiat currencies are owned by a government,
 which means that they can be used to e.g. stimulate economic growth by printing extra money,
 which lessens the value of individuals holdings.
@@ -41,7 +41,7 @@ Although these aspects might seem unrelated, they have a common solution.
 
 **Bitcoin** is a confusing term.
 It is both a monetary unit of denomination,
-such as swiss franc, euro, or pound sterling,
+such as Swiss franc, euro, or pound sterling,
 as well as, a monetary system as a whole, including the protocol, the network, and the software.
 To distinguish between the two, the system **Bitcoin** is written with a capital letter B,
 the monetary unit is **bitcoin**, with a small letter b.
@@ -88,7 +88,7 @@ this makes the system deflationary, which is troubling to economists.
 Deflation provides a disincentive to spend, causing economic slowdown (see e.g. Fisher, 1933). 
 Since deflation causes the price of products to fall, it incentivises people to save ans spend later.
 Additionally, these savings are not invested properly,
-since deflation simultanuously provides a disincentive for borrowers, 
+since deflation simultaneously provides a disincentive for borrowers, 
 by making future paybacks more expensive, raising the effective interest rate.
 
 The second issue is the value of the mining process.
